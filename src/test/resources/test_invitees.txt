@@ -1,0 +1,7 @@
+{"latitude": "40.712775", "user_id": 8, "name": "Eoin Ahearn (from newYork)", "longitude": "-74.005973"}
+{"latitude": "53.349805", "user_id": 19, "name": "Jack Dempsey (from dublin)", "longitude": "-6.260310"}
+{"latitude": "51.507351", "user_id": 26, "name": "Stephen McArdle (from london)", "longitude": "-0.127758"}
+{"latitude": "52.520007", "user_id": 27, "name": "Enid Gallagher (from Berlin)", "longitude": "13.404954"}
+{"latitude": "59.329323", "user_id": 6, "name": "Theresa Enright (from stockholm)", "longitude": "18.068581"}
+{"latitude": "53.349805", "user_id": 10, "name": "Georgina Gallagher (from dublin)", "longitude": "-6.256177"}
+{"latitude": "53.343865", "user_id": 16, "name": "Rose Enright (from dublin)", "longitude": "-6.267185"}
